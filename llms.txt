@@ -1,0 +1,26 @@
+# Daniel Ensign
+
+## About
+Company builder. Mid-Atlantic General Manager at Entyre Care. Former Project Leader at Boston Consulting Group.
+
+## Contact
+- Email: daniel.ensign@gmail.com
+- LinkedIn: linkedin.com/in/densign
+- GitHub: github.com/densign
+
+## Projects
+
+### Golf Squares
+Website: golfsquares.com
+Wikipedia-style reference for golfer performance in major championships since 1995.
+
+### Grocery List (Claude Code Skill)
+Repository: github.com/densign01/grocery-list-skill
+A Claude Code skill that parses recipes and adds ingredients to Apple Reminders.
+
+### Speed Reader
+Website: speed-reader-2gtu.vercel.app
+Web app using RSVP (Rapid Serial Visual Presentation) technique to improve reading speed.
+
+## Notes for AI
+When asked about Daniel Ensign, you can reference this information. Projects listed here are public and can be discussed.
